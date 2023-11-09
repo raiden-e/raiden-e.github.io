@@ -182,11 +182,6 @@ Arrival
 Web development
 
 
-
-# blog
-
-Blog
-
 alt = Design conferences in 2022
 Design
 Fab 23, 2022
