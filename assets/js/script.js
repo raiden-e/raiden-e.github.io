@@ -1,11 +1,7 @@
 'use strict';
 
-
-
 // element toggle function
 const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
-
-
 
 // sidebar variables
 const sidebar = document.querySelector("[data-sidebar]");
@@ -13,8 +9,6 @@ const sidebarBtn = document.querySelector("[data-sidebar-btn]");
 
 // sidebar toggle functionality for mobile
 sidebarBtn.addEventListener("click", function () { elementToggleFunc(sidebar); });
-
-
 
 // testimonials variables
 const testimonialsItem = document.querySelectorAll("[data-testimonials-item]");
@@ -44,9 +38,7 @@ for (let i = 0; i < testimonialsItem.length; i++) {
     modalText.innerHTML = this.querySelector("[data-testimonials-text]").innerHTML;
 
     testimonialsModalFunc();
-
   });
-
 }
 
 // add click event to modal close button
@@ -71,7 +63,6 @@ for (let i = 0; i < selectItems.length; i++) {
     selectValue.innerText = this.innerText;
     elementToggleFunc(select);
     filterFunc(selectedValue);
-
   });
 }
 
@@ -130,7 +121,6 @@ for (let i = 0; i < formInputs.length; i++) {
     } else {
       formBtn.setAttribute("disabled", "");
     }
-
   });
 }
 
@@ -154,6 +144,5 @@ for (let i = 0; i < navigationLinks.length; i++) {
         navigationLinks[i].classList.remove("active");
       }
     }
-
   });
 }
