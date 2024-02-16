@@ -10,3 +10,5 @@ plugins:
 collections:
   people:
     output: true
+
+includes_dir: assets/_sections
