@@ -16,13 +16,6 @@ _plugins/
 .jekyll-metadata
 .jekyll-include-cache/
 
-# Jekyll generated files
-*.html
-*.xml
-*.json
-*.txt
-*.md
-
 # Jekyll development server
 .jekyll-metadata
 .jekyll-cache/
