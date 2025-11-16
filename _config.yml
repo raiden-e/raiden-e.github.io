@@ -1,5 +1,5 @@
 title: Raiden Erdmann
-email: raiden.erdmann@gmail.com
+email: raiden.erdmann+job@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal Website on which I explain what I do and showcase a couple of neat things that I like, and people who I am fond of.
 
@@ -7,8 +7,9 @@ plugins:
   - jekyll-feed
 
 # Collections
+collections_dir: assets
 collections:
   people:
     output: true
-
-includes_dir: assets/_sections
+  sections:
+    output: false
