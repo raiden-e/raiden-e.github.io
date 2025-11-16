@@ -128,11 +128,15 @@ li {
 
 img,
 ion-icon,
-a,
 button,
 time,
 span {
   display: block;
+}
+
+a,
+a:visited {
+  display: inline;
 }
 
 .no-block {
