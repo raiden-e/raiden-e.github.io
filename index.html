@@ -118,36 +118,35 @@
 
     </aside>
 
+    {% assign sections = site.sections | sort: 'order' %}
+
     <div class="main-content">
 
       <nav class="navbar">
 
         <ul class="navbar-list">
-
+          {% for section in sections %}
+          {% unless section.nav == false %}
           <li class="navbar-item">
-            <button class="navbar-link  active" data-nav-link>About</button>
+            <button class="navbar-link{% if forloop.first %} active{% endif %}" data-nav-link>{{ section.title }}</button>
           </li>
-
-          <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>Resume</button>
-          </li>
-
-          {% comment %} <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>People</button>
-          </li> {% endcomment %}
-
-          <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>Contact</button>
-          </li>
+          {% endunless %}
+          {% endfor %}
 
         </ul>
 
       </nav>
 
-      {% include about.html %}
-      {% include resume.html %}
-      {% comment %} {% include people.html %} {% endcomment %}
-      {% include contact.html %}
+      {% for section in sections %}
+      <article class="{{ section.class | default: section.slug }}{% if forloop.first %} active{% endif %}" data-page="{{ section.slug }}">
+
+        <header>
+          <h2 class="h2 article-title">{{ section.heading | default: section.title }}</h2>
+        </header>
+
+        {{ section.content | markdownify }}
+      </article>
+      {% endfor %}
     </div>
 
   </main>
