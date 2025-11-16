@@ -14,8 +14,18 @@ I'm passionate about turning AI potential into measurable business impact. Wheth
 
 ### What I do
 
-- **AI Transformation & Use Case Development** – I identify pain points in business processes and transform them into actionable AI use cases. From GenAI integration (Github Copilot, LLMs) to rollout coordination, I bridge the gap between technical potential and business impact.
+**AI Transformation & Use Case Development**
 
-- **IT Consulting & Stakeholder Management** – Coordinating software rollouts for complex, multi-stakeholder environments (aviation sector). I moderate workshops, translate technical requirements into user stories, and ensure alignment between Business, IT, and Data teams.
+I identify pain points in business processes and transform them into actionable AI use cases. From GenAI integration (Github Copilot, LLMs) to rollout coordination, I bridge the gap between technical potential and business impact.
 
-- **Automation & Backend Infrastructure** – Python automation, cloud infrastructure (Azure, Docker), and DevOps practices. I maintain self-hosted server environments with Proxmox and buil
+**IT Consulting & Stakeholder Management**
+
+Coordinating software rollouts for complex, multi-stakeholder environments (aviation sector). I moderate workshops, translate technical requirements into user stories, and ensure alignment between Business, IT, and Data teams.
+
+**Automation & Backend Infrastructure**
+
+Python automation, cloud infrastructure (Azure, Docker), and DevOps practices. I maintain self-hosted server environments with Proxmox and build tools that solve real-world problems, from Spotify workflow automation to system deployment pipelines.
+
+**Technical Sales & Solution Architecture**
+
+Translating technical complexity into business value is my passion. With a strong foundation in IT consulting and a growing interest in Technical Sales, I help organizations understand how technology can drive their business forward. Psychology, technology, and business strategy combined.
