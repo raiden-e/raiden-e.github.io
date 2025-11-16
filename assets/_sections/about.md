@@ -6,15 +6,16 @@ heading: About me
 class: about
 ---
 
-I am an exchange student from Germany studying Business Information Systems at [Western Carolina University](https://www.instagram.com/western_carolina/) in North Carolina. I am passionate about marketing and eager to gain hands-on industry experience. During my time at [Materna IPS](https://www.materna-ips.com/), I worked as a working student for three years on automating system deployment solutions.
+I am a Business Informatics student at FH Dortmund and IT Consultant at [SITA IPS](https://www.materna-ips.com/), where I've spent 3+ years coordinating software rollouts, developing AI use cases, and bridging Business, IT, and Data. Currently, I'm completing my bachelor's thesis on AI-powered video generation while working on Github Copilot integration projects.
 
-At Western Carolina University I gained valuable experience across social media, content, and email marketing. I also learned how to design and implement data-driven strategies that support specific business goals. With a strong technical background, I’m excited to focus my energy on marketing—especially social media.
+My expertise spans GenAI (LLMs, prompting techniques), Python automation, cloud infrastructure, and agile project management. I coordinate multi-stakeholder rollouts in the aviation sector, moderate workshops, and translate technical complexity into business value. Beyond consulting, I maintain my own server infrastructure with Docker and Proxmox, exploring the intersection of DevOps and AI transformation.
 
-I’m a motivated, results-oriented teammate with a solid work ethic and a willingness to go the extra mile. I look forward to contributing my skills to a marketing team and helping businesses hit their targets.
+I'm passionate about turning AI potential into measurable business impact. Whether it's identifying pain points, developing use cases, or moderating stakeholder workshops, I thrive in roles that combine technical depth with business acumen and communication. Currently open to Technical Sales, Presales, and Solution Consulting roles in B2B SaaS, Cloud, and AI.
 
 ### What I do
 
-- **Social Media Marketing** – I enjoy building and engaging with audiences, creating compelling content, and measuring outcomes.
-- **Branding** – “It’s all about branding.” The tactics are different today, but the impact is stronger than ever.
-- **Web Development** – Coding combines puzzle-solving with design, which makes it the perfect creative outlet for me.
-- **Sales** – Where psychology, business, and marketing meet, you get ✨sales✨—a complex yet fascinating space.
+- **AI Transformation & Use Case Development** – I identify pain points in business processes and transform them into actionable AI use cases. From GenAI integration (Github Copilot, LLMs) to rollout coordination, I bridge the gap between technical potential and business impact.
+
+- **IT Consulting & Stakeholder Management** – Coordinating software rollouts for complex, multi-stakeholder environments (aviation sector). I moderate workshops, translate technical requirements into user stories, and ensure alignment between Business, IT, and Data teams.
+
+- **Automation & Backend Infrastructure** – Python automation, cloud infrastructure (Azure, Docker), and DevOps practices. I maintain self-hosted server environments with Proxmox and buil
