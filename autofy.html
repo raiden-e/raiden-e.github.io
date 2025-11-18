@@ -36,10 +36,18 @@
 </head>
 
 <body>
-  <h1>Copy this</h1>
-  <p>
-    <script>
-      window.location.href
-    </script>
-  </p>
+  <h1>Copy this:</h1>
+  <p id="code"></p>
+  <script>
+    // Get the URL parameters
+    const urlParams = new URLSearchParams(window.location.search);
+    // Get the 'code' parameter (Spotify uses 'code', not 'id')
+    const code = urlParams.get('code') || urlParams.get('id');
+    // Display the code
+    if (code) {
+      document.getElementById('code').textContent = code;
+    } else {
+      document.getElementById('code').textContent = 'No code found in URL';
+    }
+  </script>
 </body>
