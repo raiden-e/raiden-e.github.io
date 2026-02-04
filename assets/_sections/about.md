@@ -6,26 +6,48 @@ heading: About me
 class: about
 ---
 
-I am a Business Informatics student at FH Dortmund and IT Consultant at [SITA IPS](https://www.materna-ips.com/), where I've spent 3+ years coordinating software rollouts, developing AI use cases, and bridging Business, IT, and Data. Currently, I'm completing my bachelor's thesis on AI-powered video generation while working on Github Copilot integration projects.
+# Hi, I'm Raiden
 
-My expertise spans GenAI (LLMs, prompting techniques), Python automation, cloud infrastructure, and agile project management. I coordinate multi-stakeholder rollouts in the aviation sector, moderate workshops, and translate technical complexity into business value. Beyond consulting, I maintain my own server infrastructure with Docker and Proxmox, exploring the intersection of DevOps and AI transformation.
+I'm wrapping up my Business Informatics degree at FH Dortmund with a thesis on AI-powered video generation. After 3+ years in intenal IT consulting at SITA, I'm ready for my next chapter: **Technical Sales / Solution Consulting in the DACH region**.
 
-I'm passionate about turning AI potential into measurable business impact. Whether it's identifying pain points, developing use cases, or moderating stakeholder workshops, I thrive in roles that combine technical depth with business acumen and communication. Currently open to Technical Sales, Presales, and Solution Consulting roles in B2B SaaS, Cloud, and AI.
+I combine a solid tech background (Python, cloud infrastructure, DevOps) with business acumen and a genuine passion for solving problems with the right software. I don't just want to sell - I want to help businesses with solutions I'd use myself.
 
-### What I do
+## Background
 
-**AI Transformation & Use Case Development**
+I started as a developer and infrastructure guy (PowerShell, Python, networking), but my Business Informatics studies, especially modules like Consultative Selling during my semester abroad, sparked something bigger. I realized I love the human side: understanding pain points, discussing solutions, and making technology work for people, not just systems.
 
-I identify pain points in business processes and transform them into actionable AI use cases. From GenAI integration (Github Copilot, LLMs) to rollout coordination, I bridge the gap between technical potential and business impact.
+At SITA's Program Office, I've coordinated software rollouts (payment solution migrations across airports), set up tools (SharePoint, Kimai), and moderated workshops between business, IT, and data teams. Honestly? I'm ready for more action. I want to be where solutions meet customers—advising, demoing, closing deals.
 
-**IT Consulting & Stakeholder Management**
+My bachelor's thesis dives into `AI-powered video generation from PDFs`, exploring generative AI, multimodal models, avatar synthesis, and ethical implications (deepfakes, consent, authenticity). It's a deep dive into how AI transforms content creation, and the responsibilities that come with it.
 
-Coordinating software rollouts for complex, multi-stakeholder environments (aviation sector). I moderate workshops, translate technical requirements into user stories, and ensure alignment between Business, IT, and Data teams.
+## What I Bring to Technical Sales
 
-**Automation & Backend Infrastructure**
+**Tech fluency meets business thinking.**
 
-Python automation, cloud infrastructure (Azure, Docker), and DevOps practices. I maintain self-hosted server environments with Proxmox and build tools that solve real-world problems, from Spotify workflow automation to system deployment pipelines.
+I can talk Docker and Proxmox with engineers, then turn around and explain ROI to a CFO. I've managed stakeholder workshops in aviation (not exactly a forgiving industry), translated technical requirements into user stories, and kept multi-team rollouts on track.
 
-**Technical Sales & Solution Architecture**
+**Core skills:**
 
-Translating technical complexity into business value is my passion. With a strong foundation in IT consulting and a growing interest in Technical Sales, I help organizations understand how technology can drive their business forward. Psychology, technology, and business strategy combined.
+- **GenAI & AI transformation:** LLMs, prompting, use case development, integration strategies
+- **Cloud & infrastructure:** Azure, Docker, self-hosted environments (TrueNAS, Traefik, Crowdsec)
+- **Automation & scripting:** Python, PowerShell
+- **Consulting & project management:** Agile workflows, stakeholder coordination, workshop facilitation
+- **Cross-platform:** macOS, Windows, Linux
+
+I run my own homelab with TrueNAS, Docker stacks, and hardened configurations. Not because I have to, but because I *like* solving problems and understanding how systems work. That curiosity translates directly into presales: I can demo, troubleshoot, and build trust with technical buyers.
+
+## Beyond Work
+
+When I'm not knee-deep in tech, you'll find me:
+
+- Bouldering, climbing, hiking
+- Tinkering with my homelab (current setup: TrueNAS, Docker, Crowdsec, Traefik)
+- Meeting new people whereever I go.
+
+I'm moving to **Gesrman-speaking Switzerland** and looking for roles where I can combine technical depth with customer impact—whether that's Technical Sales, Presales Engineering, or Solution Consulting in B2B SaaS, Cloud, or AI.
+
+## Let's Connect
+
+Thanks for reading my... Resume? If it sounds like we would make a good team - just shoot a message to me: [in/raiden-erdmann](https://www.linkedin.com/in/raiden-erdmann/)
+
+Or just reach out I'm always up for a good conversation about technology, business, or the best hiking routes in the Alps.
