@@ -25,10 +25,12 @@ class: resume
 - **IT Consultant (Working Student)** - *SITA IPS GmbH, 2026*
 
   Coordinating software rollouts for aviation sector, developing Copilot integration, moderating workshops, and translating technical requirements into user stories. Specializing in AI transformation and stakeholder management.
+  <br>
 
 - **Working Student IT** - *IA International GmbH, 2023*
 
   Web development and IT infrastructure (Shopify, HTML, CSS, JavaScript, APIs). SEO optimization and backend systems management.
+  <br>
 
 - **Working Student Technische Redaktion** - *Vulkan Gruppe GmbH, 2018–2019*
 
