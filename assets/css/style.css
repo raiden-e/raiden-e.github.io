@@ -250,6 +250,10 @@ article.active {
   }
 }
 
+h1 {
+  color: var(--white-2);
+}
+
 .h2,
 .h3,
 .h4,
