@@ -11,8 +11,8 @@ class: resume
 - **Fachhochschule Dortmund** - *2020–2026*
   Business Information Systems (B. Sc.) - Completing: February 2026
   Bachelor's Thesis: "AI-Powered Video Generation from PDFs"
-- **Western Carolina University** - *Fall Semester 2023*
-  Study abroad semester in North Carolina, USA. Advanced coursework in Business-IT alignment.
+- **Western Carolina University** - *Fall 2023*
+  Study abroad semester in North Carolina, USA. Advanced coursework in Business-IT alignment and Consultative Selling.
 - **Hochschule Bochum** - *2020*
   Bridge program preparing for Business Information Systems.
 - **Ruhr University Bochum** - *2017–2020*
@@ -22,9 +22,9 @@ class: resume
 
 ### Experience
 
-- **IT Consultant (Working Student)** - *SITA IPS GmbH, 2026*
+- **IT Consultant (Working Student)** - *SITA IPS GmbH, 2022–today*
 
-  Coordinating software rollouts for aviation sector, developing Copilot integration, moderating workshops, and translating technical requirements into user stories. Specializing in AI transformation and stakeholder management.
+  Coordinating software rollouts for the aviation sector across 5+ countries, including payment solution migrations at major airports. Developed Github Copilot integrations, moderated cross-functional workshops with business, IT, and data stakeholders, and translated technical requirements into user stories. Focus areas: AI transformation and stakeholder management.
   <br>
 
 - **Working Student IT** - *IA International GmbH, 2023*
@@ -38,10 +38,15 @@ class: resume
 
 ### Technical Skills
 
-- **AI & Data:** Generative AI (LLMs, Prompting), Github Copilot, HeyGen a. o.  video-models
-- **Cloud & Infrastructure:** VMware, TrueNAS (with Docker)!
-- **Project Management:** Agile (Scrum), Jira, Confluence, Stakeholder Management
+- **AI & Data:** GenAI (LLMs, prompting), Github Copilot, HeyGen and other video generation models
+- **Cloud & Infrastructure:** VMware, TrueNAS, Docker, Traefik, Crowdsec
+- **Project Management:** Agile (Scrum), Jira, Confluence, stakeholder management
 - **Development:** Python, PowerShell, HTML/CSS/JS, Git
+
+### Languages
+
+- German - native
+- English - native
 
 ### Soft Skills
 
