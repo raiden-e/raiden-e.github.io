@@ -6,7 +6,7 @@ heading: About me
 class: about
 ---
 
-## Technical Sales & Solution Consulting | AI & Cloud
+## Technical Sales & Presales | AI & Cloud
 
 I'm wrapping up my Business Informatics degree at FH Dortmund with a thesis on AI-powered video generation. After 3+ years in internal IT consulting at SITA, I'm moving to **German-speaking Switzerland** for my next chapter: **Technical Sales / Solution Consulting in the DACH region**.
 
