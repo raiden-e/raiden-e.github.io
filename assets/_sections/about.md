@@ -49,7 +49,5 @@ In my downtime, you'll find me:
 
 I'm always up for a good conversation about technology, business, or the best hiking routes in the Alps. Reach out directly:
 
-<!-- Yeah sorry but not going to share my actual email, hope you understand. -->
-
-- [00_receipt.uniform@icloud.com](mailto:00_receipt.uniform@icloud.com)
+- [raiden.erdmann@gmail.com](mailto:raiden.erdmann@gmail.com)
 - [linkedin.com/in/raiden-erdmann](https://www.linkedin.com/in/raiden-erdmann/)
