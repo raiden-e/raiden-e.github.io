@@ -1,7 +1,8 @@
 title: Raiden Erdmann
 email: raiden.erdmann+job@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  My personal Website on which I explain what I do and showcase a couple of neat things that I like, and people who I am fond of.
+description: >-
+  Raiden Erdmann — Technical Sales and Solution Consulting in the Ruhr area.
+  B.Sc. Business Informatics, IT consulting background, thesis on generative AI and EU AI Act.
 
 plugins:
   - jekyll-feed
