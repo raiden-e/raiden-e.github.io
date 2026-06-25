@@ -253,10 +253,10 @@ _Geprüfte und verworfene Stellen, mit Kurzbegründung – verhindert Doppelprü
 ## 7. Online-Präsenz
 
 - **LinkedIn:** linkedin.com/in/raiden-erdmann
-- **Website:** raiden-e.github.io (englisch, "Technical Sales & Presales | AI & Cloud") (Muss ich noch abändern)
+- **Website:** raiden-e.github.io — englisch, Ruhrgebiet-Fokus (Bochum), Tagline „Technical Sales & Solution Consulting"; JEIS, SITA, Thesis und Zielrollen deckungsgleich mit CV (Stand: Juni 2026)
 - **E-Mail:** raiden.erdmann@gmail.com
 - Eigene Domain für Bewerbungs-Branding in Planung
-- Konsistenz zwischen LinkedIn / Website / CV vor Bewerbungsbeginn herstellen
+- **Offen:** LinkedIn und CV noch auf gleichen Stand bringen wie Website (Rollentitel, Zeiträume, Ruhrgebiet statt Schweiz)
 
 ---
 

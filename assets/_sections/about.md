@@ -6,7 +6,7 @@ heading: About me
 class: about
 ---
 
-## Technical Sales & Solution Consulting | AI & Cloud
+## Technical Sales & Solution Consulting
 
 I completed my B.Sc. in Business Informatics at FH Dortmund in 2026. My bachelor's thesis on AI-generated video from PDFs (submitted May 2026) covers the generative AI stack from diffusion architectures to the EU AI Act — with a practical case study from my time at SITA. After 21 months in SITA's Program Office, I'm looking for my next role in the **Ruhr area**: **Solution Consulting, Pre-Sales, or Technical Sales**.
 
