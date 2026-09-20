@@ -9,23 +9,23 @@ class: resume
 ### Education
 
 - **Fachhochschule Dortmund** - _2020–2026_
-  Business Information Systems (B.Sc.) — Completed: May 2026 (GPA 2.2)
-  Bachelor's Thesis: "AI-Powered Video Generation from PDF Documents — A Theoretical Framework" (submitted May 2026, grade 2.0)
+  Business Information Systems (B.Sc.) — Completed: May 2026
+  Bachelor's Thesis: "AI-Powered Video Generation from PDF Documents — A Theoretical Framework"
 - **Western Carolina University** - _Fall 2023_
   Study abroad semester in North Carolina, USA. Coursework in Business-IT alignment and Consultative Selling.
 - **Theodor-Körner Schule Bochum** - _2017_
-  Abitur (A-Levels) with advanced courses in Physics and Mathematics (GPA 2.2).
+  Abitur (A-Levels) with advanced courses in Physics and Mathematics.
 
 ### Experience
 
 - **IT / Digitalisation** - _JEIS Hausverwaltung GmbH, 05/2026–present_
 
-  IT support and digitalisation in a small-to-mid-sized property management context. Planned transition role after graduation while pursuing consulting and technical sales opportunities in the Ruhr area.
+  IT support and digitalisation in a small property management context. Planned transition role after graduation while pursuing consulting opportunities in the Ruhr area.
   <br>
 
-- **IT Consultant / Program Office** - _SITA, 07/2024–03/2026_
+- **Program Office (Working Student)** - _Materna IPS GmbH (acquired by SITA), 07/2024–03/2026_
 
-  Supported Program Office initiatives across aviation: payment-system migration coordination at European airports, AI-assisted workflow integration in SharePoint and Azure DevOps, and Confluence-to-SharePoint migration. Moderated cross-functional workshops, translated technical requirements into user stories, and tracked progress with internal and external stakeholders.
+  Contributed to the Program Office for international software rollouts in aviation, at the interface between business, IT and data. Supported the integration of AI-assisted features into SharePoint and Azure DevOps, and the Confluence to SharePoint migration. Coordinated with internal and external stakeholders and prepared technical requirements.
   <br>
 
 - **Working Student IT** - _IA International GmbH, 03/2023–08/2023_
@@ -35,7 +35,7 @@ class: resume
 
 - **Working Student Development** - _Materna IPS GmbH, 03/2020–02/2023_
 
-  Deployment automation (PXE boot, Windows imaging) and server setup with PowerShell. Package tooling adopted in ongoing airport rollouts; Materna IPS was acquired by SITA during this period.
+  Deployment automation (PXE boot, Windows, PowerShell, DX-Union) in live operation for 600+ machines at 3 international airports. Server setup automation with PowerShell.
   <br>
 
 - **Working Student Technical Documentation** - _Vulkan Gruppe GmbH, 11/2018–12/2019_
@@ -49,19 +49,20 @@ class: resume
 
 ### Technical Skills
 
+- **Infrastructure & Virtualization:** Windows Server, DNS, VMware, TrueNAS, Docker, Traefik, Crowdsec
+- **Automation & Development:** PowerShell, Python, PXE boot, HTML/CSS/JS, Git
 - **AI & GenAI:** LLMs, prompting, use case development, GitHub Copilot, HeyGen, Synthesia, Veo 3, Sora 2, EU AI Act, C2PA
-- **Cloud & Infrastructure:** VMware, TrueNAS, Docker, Traefik, Crowdsec
-- **Project Management:** Agile (Scrum), Jira, Confluence, SharePoint, stakeholder management
-- **Development:** Python, PowerShell, HTML/CSS/JS, Git
+- **Project Management:** Agile (Scrum), Jira, Confluence, SharePoint, Azure DevOps, stakeholder management
 
 ### Languages
 
 - German — native
 - English — native
+- French — B1 (CEFR)
 
 ### Soft Skills
 
-- Stakeholder Communication & Workshop Moderation
-- Technical Sales & Solution Translation
-- Problem-Solving (Technical & Conversational)
-- Self-Driven & Adaptable
+- Stakeholder communication and requirements analysis
+- Explaining technical topics to non-technical audiences
+- Problem-solving (technical and conversational)
+- Self-driven and adaptable

@@ -6,36 +6,36 @@ heading: About me
 class: about
 ---
 
-## Technical Sales & Solution Consulting
+## IT Consulting & Infrastructure
 
-I completed my B.Sc. in Business Informatics at FH Dortmund in 2026. My bachelor's thesis on AI-generated video from PDFs (submitted May 2026) covers the generative AI stack from diffusion architectures to the EU AI Act — with a practical case study from my time at SITA. After 21 months in SITA's Program Office, I'm looking for my next role in the **Ruhr area**: **Solution Consulting, Pre-Sales, or Technical Sales**.
+I completed my B.Sc. in Business Informatics at FH Dortmund in 2026. My bachelor's thesis on AI-generated video from PDFs covers the generative AI stack from diffusion architectures to the EU AI Act. After three years in deployment automation at Materna IPS and 21 months in the Program Office, I'm looking for my next role in the **Ruhr area**: **IT Consulting, Solution Consulting, or Pre-Sales**.
 
-I combine a solid tech background (Python, cloud infrastructure, automation) with business acumen and a genuine interest in matching people with the right software. I only want to sell products I can stand behind — technical conviction matters more than a quick close.
+I combine a solid tech background (infrastructure, automation, Python, PowerShell) with business thinking and a genuine interest in matching people with the right software. I only want to sell products I can stand behind: technical conviction matters more than a quick close.
 
-**Languages:** German (native), English (native) | **Available:** at short notice
+**Languages:** German (native), English (native), French (B1) | **Available:** from 1 October 2026
 
 ## Background
 
-I started in development and infrastructure (PowerShell, Python, deployment automation), but my Business Informatics studies — especially Consultative Selling during a semester at Western Carolina University — shifted my focus toward the human side: understanding pain points, discussing solutions, and making technology work for people.
+I started in development and infrastructure (PowerShell, Python, deployment automation), but my Business Informatics studies, especially Consultative Selling during a semester at Western Carolina University, shifted my focus toward the human side: understanding pain points, discussing solutions, and making technology work for people.
 
-At SITA's Program Office, I supported software rollouts in aviation across 5+ countries, helped integrate AI-assisted workflows into SharePoint and Azure DevOps, and moderated workshops between business, IT, and data teams. Since May 2026 I've been handling IT and digitalisation at a family-run property management company — a planned transition after graduation while I search for a consulting or sales role with real customer contact.
+At Materna IPS I worked on a deployment automation that served more than 600 machines at three airports, installed Windows Server, set up DNS and looked after the virtual machines of the test environment. Later, in the Program Office, I supported international software rollouts in aviation and helped integrate AI-assisted workflows into SharePoint and Azure DevOps. Since May 2026 I've been handling IT and digitalisation at a family-run property management company, a planned transition after graduation while I search for a consulting role with real customer contact.
 
 My thesis compares pipeline avatar systems (HeyGen, Synthesia) with end-to-end diffusion models (Veo 3, Sora 2). It looks at technical architecture (VAE, GAN, Transformer, Diffusion), business impact (cost efficiency, the shift from "Creator" to "Reviewer"), and the regulatory landscape (EU AI Act, GDPR, C2PA, Human-in-the-Loop).
 
-## What I Bring to Technical Sales
+## What I Bring
 
 **Tech fluency meets business thinking.**
 
-I can discuss Docker and homelab setups with engineers, then explain trade-offs to non-technical stakeholders. At SITA I coordinated across teams in multiple countries, translated technical requirements into user stories, and tracked rollout progress with internal and external stakeholders.
+I can discuss Docker and homelab setups with engineers, then explain trade-offs to non-technical stakeholders. In the Program Office I worked in English with developers, providers and project teams, prepared technical requirements and tracked rollout progress.
 
 **Core skills:**
 
-- **GenAI & AI transformation:** LLMs, prompting, use case development, integration strategies, EU AI Act, HeyGen/Veo 3/Sora 2
-- **Cloud & infrastructure:** VMware, Docker, self-hosted environments (TrueNAS, Traefik, Crowdsec)
-- **Automation & scripting:** Python, PowerShell, GitHub Copilot integrations
-- **Consulting & project management:** Agile workflows, stakeholder coordination, workshop facilitation
+- **Infrastructure & virtualization:** Windows Server, DNS, VMware (Workstation, ESXi), Hyper-V, Proxmox, Docker, TrueNAS, Traefik, Crowdsec
+- **Automation & scripting:** PowerShell, Python, PXE boot, deployment automation
+- **GenAI & AI transformation:** LLMs, prompting, use case development, EU AI Act, C2PA, HeyGen/Veo 3/Sora 2
+- **Consulting & project work:** Agile workflows, stakeholder coordination, requirements analysis
 
-I run a homelab with TrueNAS, Docker stacks, and hardened configurations — not because I have to, but because I like understanding how systems work. That curiosity carries into presales: demoing, troubleshooting, and building trust with technical buyers.
+I run a homelab with TrueNAS, Docker stacks, and hardened configurations, not because I have to, but because I like understanding how systems work. That curiosity carries into consulting: demoing, troubleshooting, and building trust with technical buyers.
 
 ## Beyond Work
 
