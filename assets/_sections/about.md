@@ -12,7 +12,7 @@ I completed my B.Sc. in Business Informatics at FH Dortmund in 2026. My bachelor
 
 I combine a solid tech background (infrastructure, automation, Python, PowerShell) with business thinking and a genuine interest in matching people with the right software. I only want to sell products I can stand behind: technical conviction matters more than a quick close.
 
-**Languages:** German (native), English (native), French (B1) | **Available:** from 1 October 2026
+**Languages:** German (native), English (native), French (B1) | **Available:** from 1 November 2026
 
 ## Background
 
