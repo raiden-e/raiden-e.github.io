@@ -8,11 +8,11 @@ class: about
 
 ## IT Consulting & Infrastructure
 
-I completed my B.Sc. in Business Informatics at FH Dortmund in 2026. My bachelor's thesis on AI-generated video from PDFs covers the generative AI stack from diffusion architectures to the EU AI Act. After three years in deployment automation at Materna IPS and 21 months in the Program Office, I'm looking for my next role in the **Ruhr area**: **IT Consulting, Solution Consulting, or Pre-Sales**.
+I completed my B.Sc. in Business Informatics at FH Dortmund in 2026. My bachelor's thesis on AI-generated video from PDFs covers the generative AI stack from diffusion architectures to the EU AI Act. After three years in deployment automation at Materna IPS and 21 months in the Program Office, I'm looking for my next role in the **Ruhr area** (open to relocating): **IT Consulting, Solution Consulting, or Pre-Sales**.
 
 I combine a solid tech background (infrastructure, automation, Python, PowerShell) with business thinking and a genuine interest in matching people with the right software. I only want to sell products I can stand behind: technical conviction matters more than a quick close.
 
-**Languages:** German (native), English (native), French (B1) | **Available:** from 1 November 2026
+**Languages:** German (native), English (native), French (B1) | **Available:** at short notice (4 to 6 weeks)
 
 ## Background
 
