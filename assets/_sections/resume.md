@@ -20,7 +20,7 @@ class: resume
 
 - **IT / Digitalisation** - _JEIS Hausverwaltung GmbH, 05/2026–present_
 
-  IT support and digitalisation in a small property management context. Planned transition role after graduation while pursuing consulting opportunities in the Ruhr area.
+  IT support and digitalisation in a small property management context. Planned transition role after graduation while pursuing consulting opportunities in the Ruhr area and beyond.
   <br>
 
 - **Program Office (Working Student)** - _Materna IPS GmbH (acquired by SITA), 07/2024–03/2026_
