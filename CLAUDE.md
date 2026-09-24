@@ -12,6 +12,7 @@
 - **Sprachen:**
   - Deutsch – Muttersprache (DE-Standard)
   - Englisch – Muttersprache, verhandlungssicher
+  - Französisch – B1 (Grundkenntnisse; ausreichend für Stellen mit „Französisch-Grundkenntnissen", nicht für französischsprachige Beratung)
 - **Aktuelle Situation:** Seit 05/2026 IT-Tätigkeit bei JEIS Hausverwaltung GmbH (Familienunternehmen des Vaters) – Übergangsposition nach Bachelorabschluss; sucht bewusst neue berufliche Herausforderung im Ruhrgebiet
 - **Verfügbar ab:** kurzfristig / nach Absprache (flexibel, da Familienbetrieb)
 
