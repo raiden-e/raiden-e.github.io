@@ -329,6 +329,15 @@ article p:not(:last-child) {
   margin-bottom: 1rem;
 }
 
+article p.about-facts {
+  color: var(--vegas-gold);
+}
+
+article p.about-facts strong {
+  color: var(--orange-yellow-crayola);
+  font-weight: var(--fw-500);
+}
+
 article ul,
 article ol {
   margin: 0 0 1rem 1.5rem;
