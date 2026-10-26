@@ -1,7 +1,7 @@
 ---
 title: Resume
 slug: resume
-order: 2
+order: 3
 heading: Resume
 class: resume
 ---
