@@ -8,12 +8,12 @@ class: resume
 
 ### Education
 
-- **Fachhochschule Dortmund** - _2020–2026_
-  Business Information Systems (B.Sc.) — Completed: May 2026
+- **Fachhochschule Dortmund** - _2020–2026_ \\
+  Business Information Systems (B.Sc.) — Completed: May 2026 \\
   Bachelor's Thesis: "AI-Powered Video Generation from PDF Documents — A Theoretical Framework"
-- **Western Carolina University** - _Fall 2023_
+- **Western Carolina University** - _Fall 2023_ \\
   Study abroad semester in North Carolina, USA. Coursework in Business-IT alignment and Consultative Selling.
-- **Theodor-Körner Schule Bochum** - _2017_
+- **Theodor-Körner Schule Bochum** - _2017_ \\
   Abitur (A-Levels) with advanced courses in Physics and Mathematics.
 
 ### Experience

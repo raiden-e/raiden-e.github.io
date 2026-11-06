@@ -329,6 +329,17 @@ article p:not(:last-child) {
   margin-bottom: 1rem;
 }
 
+article p a,
+article li a {
+  color: var(--vegas-gold);
+}
+
+article p a:hover,
+article li a:hover {
+  color: var(--orange-yellow-crayola);
+  text-decoration: underline;
+}
+
 article p.about-facts {
   color: var(--vegas-gold);
 }
@@ -629,6 +640,10 @@ main {
 .contact-info :is(.contact-link, time, address) {
   color: var(--white-2);
   font-size: var(--fs-7);
+}
+
+.contact-info .contact-link {
+  overflow-wrap: anywhere;
 }
 
 .contact-info address {
@@ -2108,11 +2123,6 @@ textarea.form-input::-webkit-resizer {
     grid-template-columns: 1fr;
   }
 
-  .contact-info :is(.contact-link) {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
 
   .contact-info :is(.contact-link, time, address) {
     --fs-7: 14px;
