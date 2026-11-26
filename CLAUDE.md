@@ -255,7 +255,6 @@ _Geprüfte und verworfene Stellen, mit Kurzbegründung – verhindert Doppelprü
 
 - **LinkedIn:** linkedin.com/in/raiden-erdmann
 - **Website:** raiden-e.github.io — englisch, Ruhrgebiet-Fokus (Bochum), Tagline „IT Consulting & Infrastructure"; JEIS, SITA, Thesis und Zielrollen deckungsgleich mit CV (Stand: Juni 2026)
-- **E-Mail:** ***REMOVED***
 - Eigene Domain für Bewerbungs-Branding in Planung
 - **Offen:** LinkedIn und CV noch auf gleichen Stand bringen wie Website (Rollentitel, Zeiträume, Ruhrgebiet statt Schweiz)
 

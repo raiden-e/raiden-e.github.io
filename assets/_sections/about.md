@@ -50,5 +50,4 @@ In my downtime, you'll find me:
 
 Happy to talk about technology, consulting, or hiking routes in the Sauerland. Reach out directly:
 
-- [***REMOVED***](mailto:***REMOVED***)
 - [linkedin.com/in/raiden-erdmann](https://www.linkedin.com/in/raiden-erdmann/)
